@@ -1,1 +1,2 @@
 # Bank_Customer_Churn_Prediction
+##### Introduction : In today’s competitive banking landscape, retaining customers is as critical as acquiring new ones. Predictive analytics is transforming how banks understand and respond to customer behavior. The Bank Customer Churn Prediction Model is a powerful tool that uses data to forecast which customers are likely to leave, allowing banks to take proactive measures to retain them.
